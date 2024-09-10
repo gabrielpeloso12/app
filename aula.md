@@ -38,11 +38,11 @@ Apresentar os dados
 
 ## Estrutura de dados: 
 
-### Arrays:
+## Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dados
 
-### Objetos:
+## Objetos:
 
 - [x] Atributos e métodos
 - [x] Criação e manipulação de objetos
@@ -52,3 +52,6 @@ Apresentar os dados
 - [x] Criar, passar argumento
 - [x] Executar
 - [x] Arrow function / named function
+
+## Estrutura de repetição 
+- [x] While
