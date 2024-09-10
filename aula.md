@@ -34,9 +34,10 @@ Apresentar os dados
 
 
 # Operadores
-- [x] Operadores de atribuição de valor (=)
-- [x] Operador de concatenação (junção de duas ou mais string)        
-
+- [x] Operador de atribuição de valor =
+- [x] Operador de concatenação + (ex: "junção de duas ou mais string")       
+- [x] Operador de comparação == (ver se algo é igual a outro)
+- [x] Operador de direnciação !=(diferente), <(menor), >(maior), >=(maior e igual), <=(menor e igual)
 
 ## Estrutura de dados: 
 ## Arrays:
@@ -61,6 +62,7 @@ Apresentar os dados
 
 ## Condicionais
 - [x] Switch
+- [x] if/else
 
 
 ## Módulos em Node.js:
