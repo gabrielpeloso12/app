@@ -38,11 +38,12 @@ Apresentar os dados
 - [x] Operador de concatenação + (ex: "junção de duas ou mais string")       
 - [x] Operador de comparação == (ver se algo é igual a outro)
 - [x] Operador de direnciação !=(diferente), <(menor), >(maior), >=(maior e igual), <=(menor e igual)
+- [x] Spread operator: ...
 
 ## Estrutura de dados: 
 ## Arrays:
 - [x] Uma lista que contém qualquer tipo de dados
-
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ## Objetos:
 - [x] Atributos e métodos
